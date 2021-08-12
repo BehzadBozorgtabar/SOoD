@@ -1,6 +1,6 @@
 # SOoD: Self-Supervised Out-of-Distribution Detection Under Domain Shift
 
-This repository contains the Pytorch implementation of the method proposed the _SOoD: Self-Supervised Out-of-Distribution Detection Under Domain Shift for Multi-Class Colorectal Cancer Tissue Types_ , which recently  has been accepted at ICCV 2021 Workshop (CVMAD).
+This repository contains the Pytorch implementation of the proposed method _SOoD: Self-Supervised Out-of-Distribution Detection Under Domain Shift for Multi-Class Colorectal Cancer Tissue Types_ , which has been recently accepted at ICCV 2021 Workshop (CVMAD).
 
 ## A) Dependencies
 
