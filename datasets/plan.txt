@@ -1,0 +1,37 @@
+1. For each dataset create a json file with the following format:
+    - images :
+        img1:
+            - "path" (String)
+            - "view" (String)
+            - "labels" List[Int]
+            - "split" String ("train", "val", "test", or "Unknown")
+            - "abnormal" -> 0 or 1
+            - "id" (Int)
+    
+    - labels : 
+        label:
+            - "name" (String)
+            - "count" (Int)
+            - "id" (Int)
+            
+2. Create JSON file for train, val and test set mixing the datasets. We create three new folders where we copy the images inside.
+
+    - images:
+        img1:
+            - file_path (The new one, String)
+            - type of radiography (String)
+            - dataset (Int)
+            - labels List[Int]
+            - normal 0 or 1
+            - id (Int)
+            
+    - labels:
+        label:
+            - name (String)
+            - count (String)
+            - id (Int)
+            
+    - datasets:
+        dataset:
+            - name (String)
+            - id (Int)
