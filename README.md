@@ -89,3 +89,7 @@ python main.py model_name Kather expname --checkpoint path/to/checkpoint --test
 | Supervised Source 100% |  65.13 +/- 3.57      |   41.50 +/- 3.84       |[ckpt](https://drive.google.com/drive/folders/1BSKxDNIUSgE8Tb9kEc6A3FOAbSOS1e9y?usp=sharing) |
 | Supervised Translated 100% | 78.31 +/- 5.98       | 77.48 +/- 1.61      |[ckpt](https://drive.google.com/drive/folders/1z7i_rJxJooKkb41nX1khxGMlS15N2Ewi?usp=sharing) |
 
+----
+### Licence
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
