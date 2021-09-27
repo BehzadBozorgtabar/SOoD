@@ -1,6 +1,6 @@
 # SOoD: Self-Supervised Out-of-Distribution Detection Under Domain Shift
 
-This repository contains the Pytorch implementation written by Guillaume Vray (https://github.com/GuillaumeVray/SOoD) of the proposed method _SOoD: Self-Supervised Out-of-Distribution Detection Under Domain Shift for Multi-Class Colorectal Cancer Tissue Types_ , which has been recently accepted at ICCV 2021 Workshop (CVAMD2021).
+This repository contains the Pytorch implementation of the proposed method _SOoD: Self-Supervised Out-of-Distribution Detection Under Domain Shift for Multi-Class Colorectal Cancer Tissue Types_ ( written by Guillaume Vray (https://github.com/GuillaumeVray/SOoD)), which has been recently accepted at ICCV 2021 Workshop (CVAMD 2021).
 
 ## A) Dependencies
 
