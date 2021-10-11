@@ -92,7 +92,6 @@ python main.py model_name Kather expname --checkpoint path/to/checkpoint --test
 
 ____
 ## Citation
-You can find the Self-Supervised Generative Style Transfer for One-Shot Medical Image Segmentation paper at http://arxiv.org/abs/2110.02117
 
 If you find this work useful, please cite the paper:
 
