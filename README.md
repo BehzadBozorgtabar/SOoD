@@ -89,6 +89,23 @@ python main.py model_name Kather expname --checkpoint path/to/checkpoint --test
 | Supervised Source 100% |  65.13 +/- 3.57      |   41.50 +/- 3.84       |[ckpt](https://drive.google.com/drive/folders/1BSKxDNIUSgE8Tb9kEc6A3FOAbSOS1e9y?usp=sharing) |
 | Supervised Translated 100% | 78.31 +/- 5.98       | 77.48 +/- 1.61      |[ckpt](https://drive.google.com/drive/folders/1z7i_rJxJooKkb41nX1khxGMlS15N2Ewi?usp=sharing) |
 
+
+____
+## Citation
+You can find the Self-Supervised Generative Style Transfer for One-Shot Medical Image Segmentation paper at http://arxiv.org/abs/2110.02117
+
+If you find this work useful, please cite the paper:
+
+```
+@inproceedings{bozorgtabar2021sood,
+  title={SOoD: Self-Supervised Out-of-Distribution Detection Under Domain Shift for Multi-Class Colorectal Cancer Tissue Types},
+  author={Bozorgtabar, Behzad and Vray, Guillaume and Mahapatra, Dwarikanath and Thiran, Jean-Philippe},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={3324--3333},
+  year={2021}
+}
+```
+____
 ----
 ### Licence
 
